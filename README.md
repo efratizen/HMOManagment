@@ -1,18 +1,19 @@
 # HMOManagment
 <h3>homework assignment- Hadasim</h3>
 <h5>Efrat Eisenbach 214713513</h5>
-In this project I implemented a server side System for management Health maintenance organization.
-For displaying the data, I used Postman, an application that allows testing APIs.
+In this project I implemented a server side System for management Health maintenance organization.<br>
+For displaying the data, I used Postman, an application that allows testing APIs.<br>
+
 # Actions:
-1.add new hmo member+profile picture
-  (adding picture using dto)
-2.add corona details for exist hmo member
-3.get all existing hmo members
-4.get existing hmo member by id/phone
-5.get all corona details
-6.get the count of Hmo members which are unvaccinated
-7.get how many active patients were there each day in the last month.
-(Uploading corona details separately, assuming that not every hmo member has corona details, and this is something beyond the user's personal details)
+1.add new hmo member+profile picture<br>
+  (adding picture using dto)<br>
+2.add corona details for exist hmo member<br>
+3.get all existing hmo members<br>
+4.get existing hmo member by id/phone<br>
+5.get all corona details<br>
+6.get the count of Hmo members which are unvaccinated<br>
+7.get how many active patients were there each day in the last month.<br>
+(Uploading corona details separately, assuming that not every hmo member has corona details, and this is something beyond the user's personal details)<br>
 
 # Technologies & dependencies:
 - SpringBootApplication
