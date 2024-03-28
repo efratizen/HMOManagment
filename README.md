@@ -1,6 +1,6 @@
 # HMOManagment
 <h3>homework assignment- Hadasim</h3>
-<h5>Efrat Eisenbach 214713513</h5>
+<h3>Efrat Eisenbach 214713513</h3>
 In this project I implemented a server side System for management Health maintenance organization.<br>
 For displaying the data, I used Postman, an application that allows testing APIs.<br>
 
